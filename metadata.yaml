@@ -1,5 +1,8 @@
 _repo: Our-Churches-and-Chapels--13-Being-a-Critical-and-Historical-Account-of-Every-Place-of-Worshi__10479
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Atticus
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '3552'
     url: http://www.gutenberg.org/2009/agents/3552
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10479#Our-Churches-and-Chapels--13-Being-a-Critical-and-Historical-Account-of-Every-Place-of-Worshi_
 gutenberg_bookshelf: Architecture
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
